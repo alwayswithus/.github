@@ -15,10 +15,10 @@
 
 ### 화면 기능
 <div>
-  <img src="https://user-images.githubusercontent.com/31242766/202836229-91d02f6d-89d1-41fa-bd96-f52c49e659fe.png" width="300" height="250" align='center'>
-  <img src="https://user-images.githubusercontent.com/31242766/202836235-afe73c0a-3cc4-4dca-b89f-cb0bd55abad9.png" width="300" height="250" align='center'><br>
-  <img src="https://user-images.githubusercontent.com/31242766/202836306-875f5a1e-7941-4b61-84cf-0c2e8f8005fe.png" width="300" height="250" align='center'>
-  <img src="https://user-images.githubusercontent.com/31242766/202836317-a5ae21f8-d8f5-4588-a24e-41768063cd0f.png" width="300" height="250" align='center'>
+  <img src="https://user-images.githubusercontent.com/31242766/202836229-91d02f6d-89d1-41fa-bd96-f52c49e659fe.png" width="350" height="250" align='center'>
+  <img src="https://user-images.githubusercontent.com/31242766/202836235-afe73c0a-3cc4-4dca-b89f-cb0bd55abad9.png" width="350" height="250" align='center'><br>
+  <img src="https://user-images.githubusercontent.com/31242766/202836306-875f5a1e-7941-4b61-84cf-0c2e8f8005fe.png" width="350" height="250" align='center'>
+  <img src="https://user-images.githubusercontent.com/31242766/202836317-a5ae21f8-d8f5-4588-a24e-41768063cd0f.png" width="350" height="250" align='center'>
 </div>
 
 ## 아키텍쳐
