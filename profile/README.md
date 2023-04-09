@@ -23,3 +23,6 @@
 
 ## 아키텍쳐
 ![image](https://user-images.githubusercontent.com/31242766/202836347-42049098-6ab0-4673-8021-d235d6a14432.png)
+
+## DB 스키마
+![image](https://user-images.githubusercontent.com/31242766/230766833-a14777ce-2296-4748-aed9-b9ce5cc02fa2.png)
